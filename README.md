@@ -117,6 +117,14 @@ We might rationally anticipate identifying around 15-20 key societal roles of in
 
 This approach ensures that voices from diverse economic and social backgrounds are heard, providing valuable insights into health and disease monitoring in a multi-ethnic and economically varied community. By stratifying the sample by livelihood, we avoid the complexity and potential bias of population-level sampling, while still capturing a wide array of viewpoints. Though not a perfect representation of the entire population, this method prioritizes inclusivity and complements the qualitative data effectively.
 
+## About
+
+This project was created by [Anthony Mansaray](https://profiles.lshtm.ac.uk/4753-anthony-mansaray), [Luisa Enria](https://profiles.lshtm.ac.uk/4456-luisa-enria), [Melissa Parker](https://profiles.lshtm.ac.uk/2621-melissa-parker) and [Chrissy Roberts](https://profiles.lshtm.ac.uk/2205-chrissy-h-roberts-phd-sfhea) at the [London School of Hygiene & Tropical Medicine](https://lshtm.ac.uk). Funding was provided by a Commonwealth Scholarship PhD award to Anthony Mansaray, a UKRI future leader's fellowship award to Luisa Enria and the LSHTM Global Health Analytics Pay What You Can fund. 
+
+<img width="265" height="80" alt="image" src="https://github.com/user-attachments/assets/67fb4cbc-f0bc-41c5-8533-9cfc9abfa606" />
+<img width="301" height="80" alt="image" src="https://github.com/user-attachments/assets/a810c635-1b53-4423-90c0-0b22d6e0d1b5" />
+<img width="175" height="80" alt="LSHTM__Global_Health_Analytics_logo copy" src="https://github.com/user-attachments/assets/52663f5a-59ba-45b6-bc3d-b02a148da0c7" />
+
 
 
 
